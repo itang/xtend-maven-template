@@ -13,8 +13,8 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-    <xtend.version>2.3.0</xtend.version>
-    <guava.version>12.0</guava.version>
+    <xtend.version>2.3.1</xtend.version>
+    <guava.version>13.0</guava.version>
     <junit.version>4.10</junit.version>
   </properties>
 
